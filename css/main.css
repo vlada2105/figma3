@@ -84,7 +84,7 @@ nav {
     border: 2px solid var(--accent-1);
     letter-spacing: 1.6px;
     font-weight: 600;
-    padding: 5px 21px 9px 22px;
+    padding: 5px 21px 8px 22px;
 }
 .menu_items a.logo:hover {
     background-color: var(--accent-1);
